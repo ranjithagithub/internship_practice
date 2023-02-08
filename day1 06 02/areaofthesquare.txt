@@ -1,6 +1,0 @@
-find the area of the square
-step1: start
-step2: declare side,area
-step3: peri= 4*side
-step4: display peri
-sterp5: stop

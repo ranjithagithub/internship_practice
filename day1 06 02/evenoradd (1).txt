@@ -1,9 +1,0 @@
-s1: start
-s2: declare a;
-s3: read a,
-s4: check if it is divisible 2
-ifa%2==0
-display a is even
-else
-display a is odd
-s6: stop
