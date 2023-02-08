@@ -1,0 +1,9 @@
+s1: start
+s2: declare i, n, fact
+s3: read n
+s4: initialize i=1,fact=1
+s5: check i value with n if i<=n true go to step 6
+s6: fact=fact+i
+s7: increment i go to step 5
+s8: display fact value
+s9: stop

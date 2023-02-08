@@ -1,0 +1,6 @@
+s1: start
+s2: librarian, user
+s3: librarian is add the student/user,distribute library card
+     publication of book,add book,issue book
+s4:  search book,return book report,prenalty report
+s5:  stop

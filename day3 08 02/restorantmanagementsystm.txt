@@ -1,0 +1,9 @@
+s1: start
+s2: declare restaurant,restaurant staff,kichen staff,custemer
+s3: read custemer
+s4: allow to add and remove item to order
+s5: allow to add and remove table reservaation
+s6: allow to add and remove menu items
+s7:generate bills
+s8: manage payment of bills
+s9: stop
