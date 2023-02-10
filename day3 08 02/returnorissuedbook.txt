@@ -1,5 +1,0 @@
-s1: satrt
-s2: librarian,user,ID card,lilbrary card
-s3: return the issued book
-    else pay penalty
-s4: stop

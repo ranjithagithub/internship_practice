@@ -1,8 +1,0 @@
-s1: start
-s2: library 
-s3:  user/reader
-      rigistration form,after rigistered library card using
-      it is issued by librarian
-s4:   ID assined to cardholder
- s5:  after getting book for reading   
- s6: stop     
