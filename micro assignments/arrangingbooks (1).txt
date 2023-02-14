@@ -1,0 +1,7 @@
+s1: start
+s2: library, shelves,librarian, workers
+s3: types of books,news papers,novels 
+s4: separing the books based on the categary
+s5: arranging the books in dewey decimal system in 
+    the shelves
+s6: stop

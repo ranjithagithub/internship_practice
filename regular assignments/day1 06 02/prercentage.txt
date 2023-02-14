@@ -1,0 +1,16 @@
+s1: start
+s2: declare a, b,c,d,e,avrg,perc,max
+s3: read a,b,c,d,e,max marks
+s4: sum=a+b+c+d+e
+s5: avg=a+b+c+d+e/5
+s6: perc=a+b+c+d+e/5*100
+s7: if(perc>=90 or perc<=100) 
+    display grade A
+    else if (perc>=80 or perc<=90)
+     display grade B
+     else if (perc>=70 or per<=80)
+     display grade C
+     else if (perc>=60 or perc<=70
+      display A
+     else fail
+s8: stop

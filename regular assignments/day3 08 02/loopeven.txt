@@ -1,0 +1,8 @@
+s1: start
+s2: declare i, n
+s3: read n
+s4: initialize the i value i=1
+s5: check if i%2==0 true go to step 6
+s6: display/printi
+s7: increment i go to step 5
+s8:  stop

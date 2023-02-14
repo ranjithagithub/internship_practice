@@ -1,0 +1,8 @@
+step1: start
+step2: read three numbers,a,b,c
+step3: compare a and b
+step4:  if a>b
+step5: compare a and c
+step6: a>c
+       display a
+step7: compare 

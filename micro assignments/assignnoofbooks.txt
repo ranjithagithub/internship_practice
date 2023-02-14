@@ -1,0 +1,5 @@
+s1: start
+s2: library,librarian, books, users
+s3: number of books, number of pages in books
+s4: assining the books
+s5: stop

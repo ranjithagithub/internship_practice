@@ -1,0 +1,7 @@
+s1: start
+s2: user,librarian,library card,ID card
+s3: entry permission,login timing, signing with book
+s4:  after search book
+s5: return book report
+s6: librarian activity is cheking return for book
+s7: stop
