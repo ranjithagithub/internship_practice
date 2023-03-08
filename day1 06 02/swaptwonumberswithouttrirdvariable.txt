@@ -1,8 +1,0 @@
-swap of two number without third varible
-step1: start
-step2: declare a,b
-step3: a=a+b
-step4: b=a-b
-step5: a=a+b
-step6: display a,b
-step7: stop
