@@ -1,0 +1,39 @@
+interface Operation{
+void add();
+  void sub();
+  void mul();
+  void div();
+  
+}
+class Calculator implements Operation{
+  public void add(){
+  int a=20;
+  int b=25;
+  System.out.println((a+b));
+  }
+  public void sub(){
+    int a=20;
+    int b=25;
+    System.out.println((a-b));
+    
+  }
+  public void mul(){
+    int a=20;
+    int b=25;
+    System.out.println((a*b));
+  }
+  public void div(){
+    int a=20;
+    int b=25;
+    System.out.println((a/b));
+  }
+}
+class InterfaceDemo1{
+   public static void main(String args[]){
+    Operation opt=new Calculator();
+    opt.add();
+    opt.sub();
+    opt.mul();
+    opt.div();
+   }
+}
