@@ -1,9 +1,0 @@
-s1: start
-s2: declare i,n
-s3: reade i
-s4: initialize the i value i=1
-s5: check if i=1; i<=n;i++  go to step 6
-s6: sum=sum+i
-s7: increment i go to step 5
-s8: display sum value
-s9: stop
